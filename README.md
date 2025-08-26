@@ -16,7 +16,7 @@
     </td>
     <td width="20%" valign="top">
       <!-- Content for Column 2 -->
-      <img src="https://arbioiimas.github.io/ArBio/images/logo_arbio.png" alt="Artificial Intelligence in Biomedicine Group (ArBio)" style="width:80%; height:auto;">
+      <a href="https://arbioiimas.github.io/ArBio"><img src="https://arbioiimas.github.io/ArBio/images/logo_arbio.png" alt="Artificial Intelligence in Biomedicine Group (ArBio)" style="width:80%; height:auto;"></a>
     </td>
   </tr>
   <tr>
@@ -29,7 +29,7 @@
     </td>
     <td width="20%" valign="top">
       <!-- Content for Column 2 -->
-      <img src="https://www.iimas.unam.mx/educacioncontinua/images/logo.svg" alt="Educación Continua, IIMAS, UNAM" style="width:100%; height:auto;">
+      <a href="https://www.iimas.unam.mx/educacioncontinua/"><img src="https://www.iimas.unam.mx/educacioncontinua/images/logo.svg" alt="Educación Continua, IIMAS, UNAM" style="width:100%; height:auto;"></a>
     </td>
   </tr>
 </table>
