@@ -9,5 +9,5 @@ Este programa es impartido por [Instituto de Investigaciones en Matemáticas Apl
 
 Para mayor información visite el [sitio oficial](https://www.iimas.unam.mx/educacioncontinua/curso_deep_learning.html).
 
-![Educación Continua, IIMAS, UNAM]([https://myoctocat.com/assets/images/base-octocat.svg](https://www.iimas.unam.mx/educacioncontinua/images/logo.svg))
+![Educación Continua, IIMAS, UNAM](https://www.iimas.unam.mx/educacioncontinua/images/logo.svg)
 
