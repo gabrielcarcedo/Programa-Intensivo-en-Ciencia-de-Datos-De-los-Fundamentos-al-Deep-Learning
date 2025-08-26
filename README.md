@@ -12,6 +12,7 @@
       <!-- Content for Column 1 -->
       Programa impartido por el <a href="https://www.iimas.unam.mx/">Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas, IIMAS, UNAM</a>.
       <br>
+      <br>
       Para mayor información visite el <a href="https://www.iimas.unam.mx/educacioncontinua/curso_deep_learning.html">sitio oficial</a>.
     </td>
     <td width="20%" valign="top">
