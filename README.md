@@ -1,6 +1,4 @@
-<center>
-  # Programa Intensivo en Ciencia de Datos de los Fundamentos al Deep Learning
-</center>
+<h1 style="text-align:center;">Programa Intensivo en Ciencia de Datos de los Fundamentos al Deep Learning</h1>
 
 ## Módulo 3: Redes Neuronales Artificiales 
 
