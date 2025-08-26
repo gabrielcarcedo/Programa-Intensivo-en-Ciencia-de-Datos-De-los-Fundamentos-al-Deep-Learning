@@ -2,8 +2,6 @@
 
 ## Módulo 3: Redes Neuronales Artificiales 
 
----
-
 <table>
   <tr>
     <td width="80%" valign="top">
@@ -20,9 +18,6 @@
     </td>
   </tr>
 </table>
-
-
----
 
 <table>
   <tr>
