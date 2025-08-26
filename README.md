@@ -1,10 +1,10 @@
-<h1 style="text-align:center;">Programa Intensivo en Ciencia de Datos de los Fundamentos al Deep Learning</h1>
+# Programa Intensivo en Ciencia de Datos de los Fundamentos al Deep Learning
 
 ## Módulo 3: Redes Neuronales Artificiales 
 
-#### Dra. Nidiyare Hevia Montiel
-#### Dra. Blanca Vázquez Gómez
-#### Ing. Gabriel Carcedo Rodríguez
+>#### Dra. Nidiyare Hevia Montiel
+>#### Dra. Blanca Vázquez Gómez
+>#### Ing. Gabriel Carcedo Rodríguez
 ---
 
 <table>
