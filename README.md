@@ -16,7 +16,7 @@
     </td>
     <td width="20%" valign="top">
       <!-- Content for Column 2 -->
-      <img src="https://arbioiimas.github.io/ArBio/images/logo_arbio.png" alt="Artificial Intelligence in Biomedicine Group (ArBio)" style="width:70%; height:auto;">
+      <img src="https://arbioiimas.github.io/ArBio/images/logo_arbio.png" alt="Artificial Intelligence in Biomedicine Group (ArBio)" style="width:80%; height:auto;">
     </td>
   </tr>
   <tr>
