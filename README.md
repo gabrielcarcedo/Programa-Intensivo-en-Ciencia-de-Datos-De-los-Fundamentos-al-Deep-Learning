@@ -2,9 +2,9 @@
 
 ## Módulo 3: Redes Neuronales Artificiales 
 
->#### Dra. Nidiyare Hevia Montiel
->#### Dra. Blanca Vázquez Gómez
->#### Ing. Gabriel Carcedo Rodríguez
+>#### Dra. Nidiyare Hevia Montiel: nidiyare.hevia@iimas.unam.mx
+>#### Dra. Blanca Vázquez Gómez: blanca.vazquez@iimas.unam.mx
+>#### Ing. Gabriel Carcedo Rodríguez: gabrielcarcedo@comunidad.unam.mx
 ---
 
 <table>
