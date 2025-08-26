@@ -19,9 +19,6 @@
       <img src="https://arbioiimas.github.io/ArBio/images/logo_arbio.png" alt="Artificial Intelligence in Biomedicine Group (ArBio)" style="width:100%; height:auto;">
     </td>
   </tr>
-</table>
-
-<table>
   <tr>
     <td width="80%" valign="top">
       <!-- Content for Column 1 -->
