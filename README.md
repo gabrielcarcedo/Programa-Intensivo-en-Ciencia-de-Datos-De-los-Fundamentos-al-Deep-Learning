@@ -4,7 +4,7 @@
 
 >#### Dra. Nidiyare Hevia Montiel()
 >#### Dra. Blanca Vázquez Gómez()
-><a href="https://scholar.google.com/citations?user=aJSMYJ8AAAAJ&hl=es/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Ing. Gabriel Carcedo Rodríguez</a>
+<a href="https://scholar.google.com/citations?user=aJSMYJ8AAAAJ&hl=es/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Ing. Gabriel Carcedo Rodríguez</a>
 ---
 
 <table>
