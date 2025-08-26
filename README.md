@@ -4,10 +4,17 @@
 #### Dra. Nidiyare Hevia Montiel
 #### Dra. Blanca Vázquez Gómez
 #### Ing. Gabriel Carcedo Rodríguez
+---
 
-Este programa es impartido por [Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas, IIMAS, UNAM](https://www.iimas.unam.mx/).
-
-Para mayor información visite el [sitio oficial](https://www.iimas.unam.mx/educacioncontinua/curso_deep_learning.html).
-
-<img src="https://www.iimas.unam.mx/educacioncontinua/images/logo.svg" alt="Educación Continua, IIMAS, UNAM" style="width:50%; height:auto;">
-
+<div style="display: flex;">
+  <div style="flex: 1; padding-right: 10px;">
+    <!-- Content for Column 1 -->
+    Este programa es impartido por [Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas, IIMAS, UNAM](https://www.iimas.unam.mx/).
+    
+    Para mayor información visite el [sitio oficial](https://www.iimas.unam.mx/educacioncontinua/curso_deep_learning.html).
+  </div>
+  <div style="flex: 1; padding-left: 10px;">
+    <!-- Content for Column 2 -->
+    <img src="https://www.iimas.unam.mx/educacioncontinua/images/logo.svg" alt="Educación Continua, IIMAS, UNAM" style="width:50%; height:auto;">
+  </div>
+</div>
