@@ -10,8 +10,9 @@
   <tr>
     <td width="75%" valign="top">
       <!-- Content for Column 1 -->
-      Este programa es impartido por [Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas, IIMAS, UNAM](https://www.iimas.unam.mx/) <br>
-      Para mayor información visite el [sitio oficial](https://www.iimas.unam.mx/educacioncontinua/curso_deep_learning.html).
+      Este programa es impartido por <a href="https://www.iimas.unam.mx/">Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas, IIMAS, UNAM</a>.
+      <br>
+      Para mayor información visite el <a href="https://www.iimas.unam.mx/educacioncontinua/curso_deep_learning.html">sitio oficial</a>.
     </td>
     <td width="25%" valign="top">
       <!-- Content for Column 2 -->
