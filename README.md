@@ -11,6 +11,24 @@
   <tr>
     <td width="80%" valign="top">
       <!-- Content for Column 1 -->
+      Dra. Nidiyare Hevia Montiel
+      <br>
+      Dra. Blanca Vázquez Gómez
+      <br>
+      Ing. Gabriel Carcedo Rodríguez.
+    </td>
+    <td width="20%" valign="top">
+      <!-- Content for Column 2 -->
+      <img src="https://arbioiimas.github.io/ArBio/images/logo_arbio.png" alt="Artificial Intelligence in Biomedicine Group (ArBio)" style="width:100%; height:auto;">
+    </td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td width="80%" valign="top">
+      <!-- Content for Column 1 -->
       Programa impartido por el <a href="https://www.iimas.unam.mx/">Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas, IIMAS, UNAM</a>.
       <br>
       <br>
