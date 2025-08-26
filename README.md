@@ -10,12 +10,12 @@
   <tr>
     <td width="50%" valign="top">
       <!-- Content for Column 1 -->
-      Este programa es impartido por [Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas, IIMAS, UNAM](https://www.iimas.unam.mx/)
+      Este programa es impartido por [Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas, IIMAS, UNAM](https://www.iimas.unam.mx/) <br>
       Para mayor información visite el [sitio oficial](https://www.iimas.unam.mx/educacioncontinua/curso_deep_learning.html).
     </td>
     <td width="50%" valign="top">
       <!-- Content for Column 2 -->
-      <img src="https://www.iimas.unam.mx/educacioncontinua/images/logo.svg" alt="Educación Continua, IIMAS, UNAM" style="width:50%; height:auto;">
+      <img src="https://www.iimas.unam.mx/educacioncontinua/images/logo.svg" alt="Educación Continua, IIMAS, UNAM" style="width:100%; height:auto;">
     </td>
   </tr>
 </table>
