@@ -6,30 +6,16 @@
 #### Ing. Gabriel Carcedo Rodríguez
 ---
 
-<div style="display: flex;">
-  <div style="flex: 1; padding-right: 10px;">
-    <!-- Content for Column 1 -->
-    Este programa es impartido por [Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas, IIMAS, UNAM](https://www.iimas.unam.mx/).
-    
-    Para mayor información visite el [sitio oficial](https://www.iimas.unam.mx/educacioncontinua/curso_deep_learning.html).
-  </div>
-  <div style="flex: 1; padding-left: 10px;">
-    <!-- Content for Column 2 -->
-    <img src="https://www.iimas.unam.mx/educacioncontinua/images/logo.svg" alt="Educación Continua, IIMAS, UNAM" style="width:50%; height:auto;">
-  </div>
-</div>
-
 <table>
   <tr>
     <td width="50%" valign="top">
       <!-- Content for Column 1 -->
-      ### Column One
-      This column contains various details.
+      Este programa es impartido por [Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas, IIMAS, UNAM](https://www.iimas.unam.mx/)
+      Para mayor información visite el [sitio oficial](https://www.iimas.unam.mx/educacioncontinua/curso_deep_learning.html).
     </td>
     <td width="50%" valign="top">
       <!-- Content for Column 2 -->
-      ### Column Two
-      This column holds supplementary information.
+      <img src="https://www.iimas.unam.mx/educacioncontinua/images/logo.svg" alt="Educación Continua, IIMAS, UNAM" style="width:50%; height:auto;">
     </td>
   </tr>
 </table>
