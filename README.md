@@ -8,13 +8,13 @@
 
 <table>
   <tr>
-    <td width="75%" valign="top">
+    <td width="80%" valign="top">
       <!-- Content for Column 1 -->
       Este programa es impartido por <a href="https://www.iimas.unam.mx/">Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas, IIMAS, UNAM</a>.
       <br>
       Para mayor información visite el <a href="https://www.iimas.unam.mx/educacioncontinua/curso_deep_learning.html">sitio oficial</a>.
     </td>
-    <td width="25%" valign="top">
+    <td width="20%" valign="top">
       <!-- Content for Column 2 -->
       <img src="https://www.iimas.unam.mx/educacioncontinua/images/logo.svg" alt="Educación Continua, IIMAS, UNAM" style="width:100%; height:auto;">
     </td>
