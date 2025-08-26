@@ -9,5 +9,5 @@ Este programa es impartido por [Instituto de Investigaciones en Matemáticas Apl
 
 Para mayor información visite el [sitio oficial](https://www.iimas.unam.mx/educacioncontinua/curso_deep_learning.html).
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Educación Continua, IIMAS, UNAM]([https://myoctocat.com/assets/images/base-octocat.svg](https://www.iimas.unam.mx/educacioncontinua/images/logo.svg))
 
