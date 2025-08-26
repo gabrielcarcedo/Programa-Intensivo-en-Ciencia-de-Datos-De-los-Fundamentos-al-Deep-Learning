@@ -18,3 +18,18 @@
     <img src="https://www.iimas.unam.mx/educacioncontinua/images/logo.svg" alt="Educación Continua, IIMAS, UNAM" style="width:50%; height:auto;">
   </div>
 </div>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <!-- Content for Column 1 -->
+      ### Column One
+      This column contains various details.
+    </td>
+    <td width="50%" valign="top">
+      <!-- Content for Column 2 -->
+      ### Column Two
+      This column holds supplementary information.
+    </td>
+  </tr>
+</table>
